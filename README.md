@@ -1,4 +1,4 @@
-#Project 1: Login and Signup Page (Front-end Alone)
+**Project 1: Login and Signup Page (Front-end Alone)**
 Welcome to your first Web Development project! This easy-level task focuses on
 creating an attractive Login and Signup Page with responsiveness. Below are the
 details to guide you through the project:
@@ -19,7 +19,7 @@ screen sizes.
 4. Form Validation:
 - Implement basic form validation for the signup page.
 - Display error messages for invalid inputs to enhance the user experience.
-#Project 2: Simple Restaurant Website Login and Signup Authentication
+**Project 2: Simple Restaurant Website Login and Signup Authentication**
 Now, let's dive into a medium-level project, creating a simple restaurant website
 with login and signup functionality.
 Project Details:
