@@ -1,6 +1,6 @@
 # Project 1: Login and Signup Page (Front-end Alone)
 
-Welcome to your first Web Development project! This easy-level task focuses on creating an attractive Login and Signup Page with responsiveness. Below are the details to guide you through the project:
+Welcome to my first Web Development project! This easy-level task focuses on creating an attractive Login and Signup Page with responsiveness. Below are the details to guide you through the project:
 
 ## Project Details
 
@@ -51,4 +51,3 @@ Now, let's dive into a medium-level project, creating a simple restaurant websit
 
 4. **Backend Connection:**
    - Connect the website with a backend to handle user authentication.
-   - Choose any technology stack for the backend that aligns with your preferences and skills.
